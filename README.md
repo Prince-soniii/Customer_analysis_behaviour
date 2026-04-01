@@ -21,6 +21,7 @@ Python (Pandas, NumPy, Matplotlib, Seaborn)
 SQL (PostgreSQL / MySQL / SQL Server)
 Power BI
 Gamma (Presentation)
+
 ⚙️ Project Workflow
 1. Data Loading & Exploration
 Loaded dataset using Pandas
@@ -39,6 +40,7 @@ High-spending discount users
 Top-rated products
 Customer segmentation
 Revenue by age group
+
 📊 Dashboard
 Interactive Power BI dashboard
 KPIs:
@@ -46,15 +48,20 @@ Total Customers: 3.9K
 Avg Purchase: $59.76
 Avg Rating: 3.75
 Filters: Category, Gender, Shipping Type
+
 📈 Results & Insights
 Higher revenue from male customers
 Discounts don’t always reduce spending
 Loyal customers are highest segment
 Young adults generate highest revenue
+
 💡 Business Recommendations
 Improve subscription benefits
+
 Reward loyal customers
+
 Optimize discount strategies
+
 Target high-value customer segments
 
 ▶️ How to Run
