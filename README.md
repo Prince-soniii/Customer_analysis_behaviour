@@ -56,6 +56,7 @@ Loyal customers are highest segment
 Young adults generate highest revenue
 
 💡 Business Recommendations
+
 Improve subscription benefits
 
 Reward loyal customers
